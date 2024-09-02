@@ -1,3 +1,4 @@
 git push test
 (1)featureブランチで、git push originを実行してみる → fatal: The current branch feature has no upstream branch.
-(2)featureブランチで、git push origin featureを実行してみる → ?
+(2)featureブランチで、git push origin featureを実行してみる →  * [new branch]      feature -> feature
+(3)featureブランチで、git push origin :featureを実行してみる → ?
