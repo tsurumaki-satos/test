@@ -1,3 +1,3 @@
 git push test
-(1)featureƒuƒ‰ƒ“ƒ`‚ÅAgit push origin‚ğÀs‚µ‚Ä‚İ‚é ¨ fatal: The current branch feature has no upstream branch.
-(2)featureƒuƒ‰ƒ“ƒ`‚ÅAgit push origin feature‚ğÀs‚µ‚Ä‚İ‚é ¨ ?
+(1)featureãƒ–ãƒ©ãƒ³ãƒã§ã€git push originã‚’å®Ÿè¡Œã—ã¦ã¿ã‚‹ â†’ fatal: The current branch feature has no upstream branch.
+(2)featureãƒ–ãƒ©ãƒ³ãƒã§ã€git push origin featureã‚’å®Ÿè¡Œã—ã¦ã¿ã‚‹ â†’ ?
