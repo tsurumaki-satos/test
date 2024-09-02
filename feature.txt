@@ -1,0 +1,2 @@
+git push test
+* featureブランチで、git push originを実行してみる
